@@ -1,0 +1,11 @@
+{
+    "name": "Cricket updates",
+    "version": "1.0.0",
+    "description": "All cricket updates in one place",
+    "manifest_version": 3,
+    "author": "Shorya Jain",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Cricket updates"
+    }
+}
